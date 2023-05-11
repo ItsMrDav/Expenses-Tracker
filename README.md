@@ -9,7 +9,7 @@ A web app to track daily expenses.
 
 ## Tech Stack
 
-**Client:** React
+React
 
 ## Acknowledgements
 
